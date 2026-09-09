@@ -6521,7 +6521,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 15,
             "filter": [
                 "==",
                 "_label_class79",
@@ -6531,7 +6531,7 @@
                 "text-font": [
                     "Source Sans Pro Light"
                 ],
-                "text-size": 12.4,
+                "text-size": 10.5,
                 "text-anchor": "center",
                 "text-offset": [
                     0.107527,
@@ -6541,14 +6541,16 @@
                     "get",
                     "_label_angle79"
                 ],
-                "text-letter-spacing": 0.05,
+                "text-letter-spacing": 0.02,
                 "text-field": "{_name79}",
                 "text-allow-overlap": false,
                 "text-optional": true,
                 "text-rotation-alignment": "map"
             },
             "paint": {
-                "text-color": "rgb(0,0,0)"
+                "text-color": "rgb(70,70,70)",
+                "text-halo-color": "rgba(255,255,255,0.95)",
+                "text-halo-width": 1
             }
         },
         {
@@ -8141,7 +8143,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 15,
             "filter": [
                 "==",
                 "_label_class80",
@@ -8151,20 +8153,22 @@
                 "text-font": [
                     "Source Sans Pro Light"
                 ],
-                "text-size": 12.4,
+                "text-size": 10.5,
                 "text-anchor": "left",
                 "text-rotate": [
                     "get",
                     "_label_angle80"
                 ],
-                "text-letter-spacing": 0.05,
+                "text-letter-spacing": 0.02,
                 "text-field": "{_name80}",
                 "text-allow-overlap": false,
                 "text-optional": true,
                 "text-rotation-alignment": "map"
             },
             "paint": {
-                "text-color": "rgb(0,0,0)"
+                "text-color": "rgb(70,70,70)",
+                "text-halo-color": "rgba(255,255,255,0.95)",
+                "text-halo-width": 1
             }
         },
         {
@@ -8467,7 +8471,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 15,
             "filter": [
                 "==",
                 "_label_class81",
@@ -8477,7 +8481,7 @@
                 "text-font": [
                     "Source Sans Pro Light"
                 ],
-                "text-size": 12.4,
+                "text-size": 10.5,
                 "text-anchor": "right",
                 "text-rotate": [
                     "+",
@@ -8487,14 +8491,16 @@
                         "_label_angle81"
                     ]
                 ],
-                "text-letter-spacing": 0.05,
+                "text-letter-spacing": 0.02,
                 "text-field": "{_name81}",
                 "text-allow-overlap": false,
                 "text-optional": true,
                 "text-rotation-alignment": "map"
             },
             "paint": {
-                "text-color": "rgb(0,0,0)"
+                "text-color": "rgb(70,70,70)",
+                "text-halo-color": "rgba(255,255,255,0.95)",
+                "text-halo-width": 1
             }
         },
         {
