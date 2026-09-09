@@ -24,7 +24,7 @@
             "source-layer": "Background",
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -35,7 +35,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#F1EFEC"
+                "fill-color": "#FAFAF3"
             }
         },
         {
@@ -45,7 +45,7 @@
             "source-layer": "GB_land",
             "layout": {},
             "paint": {
-                "fill-color": "#F1EFEC"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -57,7 +57,7 @@
             "maxzoom": 7,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4",
+                "fill-color": "#E2EFCE",
                 "fill-opacity": 0.5
             }
         },
@@ -75,7 +75,7 @@
             "maxzoom": 5,
             "layout": {},
             "paint": {
-                "fill-color": "rgba(230,229,225,0.3)"
+                "fill-color": "rgba(220,215,198,0.3)"
             }
         },
         {
@@ -92,7 +92,7 @@
             "maxzoom": 6,
             "layout": {},
             "paint": {
-                "fill-color": "rgba(230,229,225,0.7)"
+                "fill-color": "rgba(220,215,198,0.7)"
             }
         },
         {
@@ -109,7 +109,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EEE7DD",
+                "fill-color": "#E6E6E6",
                 "fill-opacity": 0.5
             }
         },
@@ -127,7 +127,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EEE7DD",
+                "fill-color": "#F7EACA",
                 "fill-opacity": 0.5
             }
         },
@@ -145,7 +145,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EEE7DD",
+                "fill-color": "#F3D8E7",
                 "fill-opacity": 0.5
             }
         },
@@ -163,7 +163,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EEE7DD",
+                "fill-color": "#F7F3CA",
                 "fill-opacity": 0.5
             }
         },
@@ -181,7 +181,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EEE7DD",
+                "fill-color": "#D8E6F3",
                 "fill-opacity": 0.5
             }
         },
@@ -194,7 +194,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#EAEEE7"
+                "fill-color": "#E3F0DB"
             }
         },
         {
@@ -209,7 +209,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#EAEEE7",
+                "line-color": "#DBE6D5",
                 "line-width": {
                     "stops": [
                         [
@@ -257,7 +257,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#efeee8"
+                "fill-color": "#F8F6F0"
             }
         },
         {
@@ -273,7 +273,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#eae9e8"
+                "fill-color": "#F2F2E9"
             }
         },
         {
@@ -289,7 +289,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -305,7 +305,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#efece8"
+                "fill-color": "#E4EFDA"
             }
         },
         {
@@ -321,7 +321,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e1e5e1"
+                "fill-color": "#F3F9F4"
             }
         },
         {
@@ -337,7 +337,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e7e6"
+                "fill-color": "#DCE5D3"
             }
         },
         {
@@ -353,7 +353,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e0d2d1"
+                "fill-color": "#E7C9C8"
             }
         },
         {
@@ -369,7 +369,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e7e6"
+                "fill-color": "#CCCBCB"
             }
         },
         {
@@ -385,7 +385,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#DCDCDB"
             }
         },
         {
@@ -401,7 +401,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -417,7 +417,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#eae9e8"
+                "fill-color": "#F2F2E9"
             }
         },
         {
@@ -433,7 +433,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#efece8"
+                "fill-color": "#DDE6D5"
             }
         },
         {
@@ -449,7 +449,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#FCFDFF"
             }
         },
         {
@@ -465,7 +465,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#efece8"
+                "fill-color": "#E4EFDA"
             }
         },
         {
@@ -481,7 +481,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#eae9e8"
+                "fill-color": "#F2F2E9"
             }
         },
         {
@@ -497,7 +497,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#E9E7E2"
+                "fill-color": "#EAEAD2"
             }
         },
         {
@@ -513,7 +513,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -545,7 +545,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#E4E5E4"
+                "fill-color": "#E4F3F4"
             }
         },
         {
@@ -609,7 +609,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e8e8"
+                "fill-color": "#EAEAE4"
             }
         },
         {
@@ -641,7 +641,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e9e7e2"
+                "fill-color": "#E8E4DD"
             }
         },
         {
@@ -657,7 +657,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e9e7e2"
+                "fill-color": "#F4F0D3"
             }
         },
         {
@@ -673,7 +673,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#e4e5e4"
+                "fill-color": "#E4F3F4"
             }
         },
         {
@@ -689,7 +689,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e9ede6"
+                "fill-color": "#E2EFCE"
             }
         },
         {
@@ -737,7 +737,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e9ede6"
+                "fill-color": "#E2EFCE"
             }
         },
         {
@@ -769,7 +769,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e8e8"
+                "fill-color": "#EAEAE4"
             }
         },
         {
@@ -801,7 +801,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e8e8"
+                "fill-color": "#EAEAE4"
             }
         },
         {
@@ -833,7 +833,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e8e8e8"
+                "fill-color": "#EAEAE4"
             }
         },
         {
@@ -865,7 +865,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e9ede6"
+                "fill-color": "#E2EFCE"
             }
         },
         {
@@ -897,7 +897,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -929,7 +929,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -945,7 +945,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dde3da"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -977,7 +977,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -1009,7 +1009,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -1041,7 +1041,7 @@
             "minzoom": 11,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -1057,7 +1057,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e0d2d1"
+                "fill-color": "#E8CFCC"
             }
         },
         {
@@ -1089,7 +1089,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -1105,7 +1105,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#DCDCDB"
             }
         },
         {
@@ -1121,7 +1121,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#DCDCDB"
             }
         },
         {
@@ -1137,7 +1137,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dddcd0"
+                "fill-color": "#EEE8D3"
             }
         },
         {
@@ -1153,7 +1153,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#FCFDFF"
             }
         },
         {
@@ -1169,7 +1169,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#FCFDFF"
             }
         },
         {
@@ -1185,7 +1185,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e0d2d1"
+                "fill-color": "#D6D2D2"
             }
         },
         {
@@ -1201,7 +1201,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dedddd"
+                "fill-color": "#B3B3B3"
             }
         },
         {
@@ -1217,7 +1217,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#FCFDFF"
             }
         },
         {
@@ -1233,7 +1233,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dddbd6"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -1249,7 +1249,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#f2eee4"
+                "fill-color": "#EEEFDA"
             }
         },
         {
@@ -1265,8 +1265,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-pattern": "OS/TopographicArea_1/Cliff",
-                "fill-opacity": 0.4
+                "fill-pattern": "OS/TopographicArea_1/Cliff"
             }
         },
         {
@@ -1282,8 +1281,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-pattern": "OS/TopographicArea_1/Slope",
-                "fill-opacity": 0.4
+                "fill-pattern": "OS/TopographicArea_1/Slope"
             }
         },
         {
@@ -1300,7 +1298,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -1317,7 +1315,7 @@
             "maxzoom": 6,
             "layout": {},
             "paint": {
-                "fill-color": "rgba(216,221,212,0.6)"
+                "fill-color": "rgba(209,231,195,0.6)"
             }
         },
         {
@@ -1334,7 +1332,7 @@
             "maxzoom": 8,
             "layout": {},
             "paint": {
-                "fill-color": "#D8DDD4"
+                "fill-color": "#D1E7C3"
             }
         },
         {
@@ -1346,7 +1344,7 @@
             "maxzoom": 8,
             "layout": {},
             "paint": {
-                "fill-color": "#E1E0DB"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -1358,7 +1356,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#E1E0DB"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -1377,7 +1375,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#857A6A",
+                "line-color": "#857660",
                 "line-width": {
                     "stops": [
                         [
@@ -1442,7 +1440,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#857A6A",
+                "line-color": "#857660",
                 "line-width": {
                     "stops": [
                         [
@@ -1484,8 +1482,8 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0",
-                "fill-outline-color": "#C5CDD0"
+                "fill-color": "#A9DDEF",
+                "fill-outline-color": "#A9DDEF"
             }
         },
         {
@@ -1502,7 +1500,7 @@
             "maxzoom": 3,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -1519,7 +1517,7 @@
             "maxzoom": 7,
             "layout": {},
             "paint": {
-                "fill-color": "#C5CDD0"
+                "fill-color": "#A9DDEF"
             }
         },
         {
@@ -1531,7 +1529,20 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#E9E7E2"
+                "fill-color": "#EAEAD2"
+            }
+        },
+        {
+            "id": "OS/Ornament/1",
+            "type": "fill",
+            "source": "esri",
+            "source-layer": "Ornament",
+            "minzoom": 8,
+            "maxzoom": 12,
+            "layout": {},
+            "paint": {
+                "fill-color": "#BABABA",
+                "fill-opacity": 0.6
             }
         },
         {
@@ -1548,7 +1559,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e0d2d1"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -1565,7 +1576,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#eae9e8"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -1582,7 +1593,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dddbd6"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -1599,7 +1610,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#e0d2d1"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -1616,7 +1627,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dedddd"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -1633,7 +1644,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#ffffff"
+                "fill-color": "#F5F5F0"
             }
         },
         {
@@ -1650,7 +1661,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dddbd6"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -1668,7 +1679,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#969696",
                 "line-dasharray": [
                     6,
                     6
@@ -1706,7 +1717,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#B2B1B1",
                 "line-width": {
                     "stops": [
                         [
@@ -1745,7 +1756,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c5cdd0",
+                "line-color": "#7ED2E0",
                 "line-width": {
                     "stops": [
                         [
@@ -1783,7 +1794,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#ffffff",
+                "line-color": "#BFBFBF",
                 "line-dasharray": [
                     4,
                     4
@@ -1822,7 +1833,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39b",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
@@ -1857,7 +1868,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c5cdd0",
+                "line-color": "#7ED2E0",
                 "line-width": {
                     "stops": [
                         [
@@ -1891,7 +1902,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#7A7977",
                 "line-dasharray": [
                     6,
                     4
@@ -1929,7 +1940,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c4c3bf",
+                "line-color": "#AEB4A6",
                 "line-dasharray": [
                     2,
                     2
@@ -1968,7 +1979,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c5cdd0",
+                "line-color": "#7ED2E0",
                 "line-width": {
                     "stops": [
                         [
@@ -2002,7 +2013,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#cfcfc9",
+                "line-color": "#95968F",
                 "line-width": {
                     "stops": [
                         [
@@ -2037,7 +2048,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#BEBEB4",
                 "line-width": {
                     "stops": [
                         [
@@ -2072,7 +2083,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39b",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
@@ -2107,7 +2118,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39c",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
@@ -2141,7 +2152,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#b0b6b7",
+                "line-color": "#949197",
                 "line-dasharray": [
                     2.5,
                     2.5
@@ -2179,7 +2190,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#bababa",
+                "line-color": "#8C8C8C",
                 "line-dasharray": [
                     4,
                     4
@@ -2218,7 +2229,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c5cdd0",
+                "line-color": "#7ED2E0",
                 "line-width": {
                     "stops": [
                         [
@@ -2253,7 +2264,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#7A7977",
                 "line-width": {
                     "stops": [
                         [
@@ -2285,7 +2296,7 @@
             "minzoom": 12,
             "layout": {},
             "paint": {
-                "fill-color": "#dddbd6"
+                "fill-color": "#DCD7C6"
             }
         },
         {
@@ -2303,7 +2314,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#d5d4cd",
+                "line-color": "#BBB49C",
                 "line-width": {
                     "stops": [
                         [
@@ -2337,7 +2348,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#969696",
                 "line-dasharray": [
                     2,
                     2
@@ -2375,7 +2386,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#d5d4cd",
+                "line-color": "#817E79",
                 "line-dasharray": [
                     4,
                     4
@@ -2413,7 +2424,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#BBB49C",
                 "line-width": {
                     "stops": [
                         [
@@ -2448,7 +2459,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c5cdd0",
+                "line-color": "#7ED2E0",
                 "line-width": {
                     "stops": [
                         [
@@ -2482,7 +2493,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#969696",
                 "line-dasharray": [
                     2,
                     2
@@ -2505,7 +2516,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#7A7977",
                 "line-dasharray": [
                     6,
                     4
@@ -2543,7 +2554,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#BEBEB4",
                 "line-dasharray": [
                     4,
                     4
@@ -2581,7 +2592,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#969696",
                 "line-dasharray": [
                     4,
                     4
@@ -2619,7 +2630,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#BEBEB4",
                 "line-dasharray": [
                     4,
                     4
@@ -2658,7 +2669,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#c6c5c4",
+                "line-color": "#BBB49C",
                 "line-width": {
                     "stops": [
                         [
@@ -2694,7 +2705,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1
             }
         },
@@ -2715,7 +2726,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1
             }
         },
@@ -2736,7 +2747,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1
             }
         },
@@ -2757,7 +2768,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1.6
             }
         },
@@ -2778,7 +2789,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1.3
             }
         },
@@ -2799,7 +2810,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 0.8
             }
         },
@@ -2820,7 +2831,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 0.5
             }
         },
@@ -2841,7 +2852,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 0.4
             }
         },
@@ -2862,7 +2873,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 1
             }
         },
@@ -2883,7 +2894,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#C5CDD0",
+                "line-color": "#A4DAEB",
                 "line-width": 0.5
             }
         },
@@ -2901,7 +2912,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "line-color": "#4B4444",
+                "line-color": "#949197",
                 "line-dasharray": [
                     4,
                     2.5
@@ -2925,8 +2936,7 @@
                             1.6
                         ]
                     ]
-                },
-                "line-opacity": 0.4
+                }
             }
         },
         {
@@ -2951,6 +2961,69 @@
             }
         },
         {
+            "id": "OS/Roads/Motorway,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                0
+            ],
+            "minzoom": 3,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#4E94A3",
+                "line-width": {
+                    "stops": [
+                        [
+                            2,
+                            4
+                        ],
+                        [
+                            3,
+                            4
+                        ],
+                        [
+                            4,
+                            4.7
+                        ],
+                        [
+                            5,
+                            5.3
+                        ],
+                        [
+                            6,
+                            5.7
+                        ],
+                        [
+                            8,
+                            6
+                        ],
+                        [
+                            9,
+                            6.7
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
+            }
+        },
+        {
             "id": "OS/Roads/Motorway,0_1",
             "type": "line",
             "source": "esri",
@@ -2967,8 +3040,67 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": 2
+            }
+        },
+        {
+            "id": "OS/Roads/Primary,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                3
+            ],
+            "minzoom": 4,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#73A06F",
+                "line-width": {
+                    "stops": [
+                        [
+                            1,
+                            4
+                        ],
+                        [
+                            4,
+                            3.3
+                        ],
+                        [
+                            5,
+                            4
+                        ],
+                        [
+                            6,
+                            5.3
+                        ],
+                        [
+                            8,
+                            5.3
+                        ],
+                        [
+                            9,
+                            6.3
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
             }
         },
         {
@@ -2988,7 +3120,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -3002,6 +3134,295 @@
                         [
                             4,
                             1.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/A Road,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                6
+            ],
+            "minzoom": 4,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#A09C92",
+                "line-width": {
+                    "stops": [
+                        [
+                            1,
+                            2.7
+                        ],
+                        [
+                            4,
+                            2.7
+                        ],
+                        [
+                            5,
+                            3.3
+                        ],
+                        [
+                            6,
+                            4
+                        ],
+                        [
+                            8,
+                            4.7
+                        ],
+                        [
+                            9,
+                            5.7
+                        ],
+                        [
+                            10,
+                            6.3
+                        ],
+                        [
+                            11,
+                            8
+                        ],
+                        [
+                            12,
+                            13.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/B Road,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                8
+            ],
+            "minzoom": 5,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#9F9C93",
+                "line-width": {
+                    "stops": [
+                        [
+                            4,
+                            4
+                        ],
+                        [
+                            5,
+                            2.7
+                        ],
+                        [
+                            6,
+                            3.3
+                        ],
+                        [
+                            8,
+                            4.7
+                        ],
+                        [
+                            9,
+                            5.7
+                        ],
+                        [
+                            10,
+                            6
+                        ],
+                        [
+                            11,
+                            8
+                        ],
+                        [
+                            12,
+                            13.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Minor,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                10
+            ],
+            "minzoom": 6,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#C6C6C1",
+                "line-width": {
+                    "stops": [
+                        [
+                            5,
+                            3
+                        ],
+                        [
+                            6,
+                            3
+                        ],
+                        [
+                            8,
+                            4
+                        ],
+                        [
+                            9,
+                            5.3
+                        ],
+                        [
+                            10,
+                            6.7
+                        ],
+                        [
+                            11,
+                            7.3
+                        ],
+                        [
+                            12,
+                            10.7
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Local,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                13
+            ],
+            "minzoom": 8,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#CECDCA",
+                "line-width": {
+                    "stops": [
+                        [
+                            9,
+                            3.7
+                        ],
+                        [
+                            10,
+                            4.7
+                        ],
+                        [
+                            11,
+                            6
+                        ],
+                        [
+                            12,
+                            8.7
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Restricted,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                15
+            ],
+            "minzoom": 9,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#CECDCA",
+                "line-width": {
+                    "stops": [
+                        [
+                            9,
+                            3.7
+                        ],
+                        [
+                            10,
+                            4.7
+                        ],
+                        [
+                            11,
+                            5.3
+                        ],
+                        [
+                            12,
+                            7.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Guided Busway,0/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                17
+            ],
+            "minzoom": 8,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#C6C6C1",
+                "line-width": {
+                    "stops": [
+                        [
+                            8,
+                            4
+                        ],
+                        [
+                            9,
+                            4
+                        ],
+                        [
+                            10,
+                            5.3
+                        ],
+                        [
+                            11,
+                            6.7
+                        ],
+                        [
+                            12,
+                            7.3
                         ]
                     ]
                 }
@@ -3312,7 +3733,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": {
                     "stops": [
                         [
@@ -3376,7 +3797,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -3420,6 +3841,69 @@
             }
         },
         {
+            "id": "OS/Roads/Motorway,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                1
+            ],
+            "minzoom": 3,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#4E94A3",
+                "line-width": {
+                    "stops": [
+                        [
+                            2,
+                            4
+                        ],
+                        [
+                            3,
+                            4
+                        ],
+                        [
+                            4,
+                            4.7
+                        ],
+                        [
+                            5,
+                            5.3
+                        ],
+                        [
+                            6,
+                            5.7
+                        ],
+                        [
+                            8,
+                            6
+                        ],
+                        [
+                            9,
+                            6.7
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
+            }
+        },
+        {
             "id": "OS/Roads/Motorway,1_1",
             "type": "line",
             "source": "esri",
@@ -3436,8 +3920,67 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": 2
+            }
+        },
+        {
+            "id": "OS/Roads/Primary,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                4
+            ],
+            "minzoom": 4,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#73A06F",
+                "line-width": {
+                    "stops": [
+                        [
+                            1,
+                            4
+                        ],
+                        [
+                            4,
+                            3.3
+                        ],
+                        [
+                            5,
+                            4
+                        ],
+                        [
+                            6,
+                            5.3
+                        ],
+                        [
+                            8,
+                            5.3
+                        ],
+                        [
+                            9,
+                            6.3
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
             }
         },
         {
@@ -3457,7 +4000,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -3471,6 +4014,65 @@
                         [
                             4,
                             1.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/A Road,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                7
+            ],
+            "minzoom": 4,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#9F9C93",
+                "line-width": {
+                    "stops": [
+                        [
+                            1,
+                            2.7
+                        ],
+                        [
+                            4,
+                            2.7
+                        ],
+                        [
+                            5,
+                            3.3
+                        ],
+                        [
+                            6,
+                            4
+                        ],
+                        [
+                            8,
+                            4.7
+                        ],
+                        [
+                            9,
+                            5.7
+                        ],
+                        [
+                            10,
+                            6.3
+                        ],
+                        [
+                            11,
+                            8
+                        ],
+                        [
+                            12,
+                            13.3
                         ]
                     ]
                 }
@@ -3495,6 +4097,236 @@
             "paint": {
                 "line-color": "#FFFFFF",
                 "line-width": 1.3
+            }
+        },
+        {
+            "id": "OS/Roads/B Road,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                9
+            ],
+            "minzoom": 5,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#9F9C93",
+                "line-width": {
+                    "stops": [
+                        [
+                            4,
+                            4
+                        ],
+                        [
+                            5,
+                            2.7
+                        ],
+                        [
+                            6,
+                            3.3
+                        ],
+                        [
+                            8,
+                            4.7
+                        ],
+                        [
+                            9,
+                            5.7
+                        ],
+                        [
+                            10,
+                            6
+                        ],
+                        [
+                            11,
+                            8
+                        ],
+                        [
+                            12,
+                            13.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Minor,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                11
+            ],
+            "minzoom": 6,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#C6C6C1",
+                "line-width": {
+                    "stops": [
+                        [
+                            5,
+                            3
+                        ],
+                        [
+                            6,
+                            3
+                        ],
+                        [
+                            8,
+                            4
+                        ],
+                        [
+                            9,
+                            5.3
+                        ],
+                        [
+                            10,
+                            6.7
+                        ],
+                        [
+                            11,
+                            7.3
+                        ],
+                        [
+                            12,
+                            10.7
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Local,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                14
+            ],
+            "minzoom": 8,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#CECDCA",
+                "line-width": {
+                    "stops": [
+                        [
+                            9,
+                            3.7
+                        ],
+                        [
+                            10,
+                            4.7
+                        ],
+                        [
+                            11,
+                            6
+                        ],
+                        [
+                            12,
+                            8.7
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Restricted,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                16
+            ],
+            "minzoom": 9,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#CECDCA",
+                "line-width": {
+                    "stops": [
+                        [
+                            9,
+                            3.7
+                        ],
+                        [
+                            10,
+                            4.7
+                        ],
+                        [
+                            11,
+                            5.3
+                        ],
+                        [
+                            12,
+                            7.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Guided Busway,1/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                18
+            ],
+            "minzoom": 8,
+            "maxzoom": 12,
+            "layout": {
+                "line-cap": "round",
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#C6C6C1",
+                "line-width": {
+                    "stops": [
+                        [
+                            8,
+                            4
+                        ],
+                        [
+                            9,
+                            4
+                        ],
+                        [
+                            10,
+                            5.3
+                        ],
+                        [
+                            11,
+                            6.7
+                        ],
+                        [
+                            12,
+                            7.3
+                        ]
+                    ]
+                }
             }
         },
         {
@@ -3802,7 +4634,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": {
                     "stops": [
                         [
@@ -3866,7 +4698,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -3910,6 +4742,69 @@
             }
         },
         {
+            "id": "OS/Roads/Motorway,2/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                2
+            ],
+            "minzoom": 3,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#4E94A3",
+                "line-width": {
+                    "stops": [
+                        [
+                            2,
+                            4
+                        ],
+                        [
+                            3,
+                            4
+                        ],
+                        [
+                            4,
+                            4.7
+                        ],
+                        [
+                            5,
+                            5.3
+                        ],
+                        [
+                            6,
+                            5.7
+                        ],
+                        [
+                            8,
+                            6
+                        ],
+                        [
+                            9,
+                            6.7
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
+            }
+        },
+        {
             "id": "OS/Roads/Motorway,2_1",
             "type": "line",
             "source": "esri",
@@ -3926,8 +4821,67 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": 2
+            }
+        },
+        {
+            "id": "OS/Roads/Primary,2/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                5
+            ],
+            "minzoom": 4,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#73A06F",
+                "line-width": {
+                    "stops": [
+                        [
+                            1,
+                            4
+                        ],
+                        [
+                            4,
+                            3.3
+                        ],
+                        [
+                            5,
+                            4
+                        ],
+                        [
+                            6,
+                            5.3
+                        ],
+                        [
+                            8,
+                            5.3
+                        ],
+                        [
+                            9,
+                            6.3
+                        ],
+                        [
+                            10,
+                            7.3
+                        ],
+                        [
+                            11,
+                            10.7
+                        ],
+                        [
+                            12,
+                            16
+                        ]
+                    ]
+                }
             }
         },
         {
@@ -3947,7 +4901,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -3961,6 +4915,57 @@
                         [
                             4,
                             1.3
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "id": "OS/Roads/Minor,2/1",
+            "type": "line",
+            "source": "esri",
+            "source-layer": "Roads",
+            "filter": [
+                "==",
+                "_symbol",
+                12
+            ],
+            "minzoom": 6,
+            "maxzoom": 12,
+            "layout": {
+                "line-join": "round"
+            },
+            "paint": {
+                "line-color": "#C6C6C1",
+                "line-width": {
+                    "stops": [
+                        [
+                            5,
+                            3
+                        ],
+                        [
+                            6,
+                            3
+                        ],
+                        [
+                            8,
+                            4
+                        ],
+                        [
+                            9,
+                            5.3
+                        ],
+                        [
+                            10,
+                            6.7
+                        ],
+                        [
+                            11,
+                            7.3
+                        ],
+                        [
+                            12,
+                            10.7
                         ]
                     ]
                 }
@@ -3982,7 +4987,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#08B7E7",
                 "line-width": {
                     "stops": [
                         [
@@ -4046,7 +5051,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#FFFFFF",
+                "line-color": "#77C776",
                 "line-width": {
                     "stops": [
                         [
@@ -4157,36 +5162,36 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39c",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
                             6,
-                            0.75
+                            1.5
                         ],
                         [
                             7,
-                            0.75
+                            1.5
                         ],
                         [
                             8,
-                            0.75
+                            1.5
                         ],
                         [
                             9,
-                            0.75
+                            1.5
                         ],
                         [
                             10,
-                            0.75
+                            1.5
                         ],
                         [
                             11,
-                            1
+                            2
                         ],
                         [
                             12,
-                            0.8
+                            1.3
                         ]
                     ]
                 }
@@ -4209,28 +5214,28 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39c",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
                             8,
-                            0.2
+                            0.4
                         ],
                         [
                             9,
-                            0.2
+                            0.4
                         ],
                         [
                             10,
-                            0.2
+                            0.4
                         ],
                         [
                             11,
-                            0.25
+                            0.5
                         ],
                         [
                             12,
-                            0.25
+                            0.5
                         ]
                     ]
                 }
@@ -4253,36 +5258,36 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#a7a39c",
+                "line-color": "#949197",
                 "line-width": {
                     "stops": [
                         [
                             6,
-                            0.6
+                            1.2
                         ],
                         [
                             7,
-                            0.6
+                            1.2
                         ],
                         [
                             8,
-                            0.6
+                            1.2
                         ],
                         [
                             9,
-                            0.6
+                            1.2
                         ],
                         [
                             10,
-                            0.6
+                            1.2
                         ],
                         [
                             11,
-                            0.8
+                            1.6
                         ],
                         [
                             12,
-                            0.8
+                            1.6
                         ]
                     ]
                 }
@@ -4302,7 +5307,7 @@
             "maxzoom": 12,
             "layout": {},
             "paint": {
-                "line-color": "#a7a39c",
+                "line-color": "#949197",
                 "line-dasharray": [
                     4,
                     2
@@ -4352,7 +5357,7 @@
                 "line-join": "round"
             },
             "paint": {
-                "line-color": "#5B2F2F",
+                "line-color": "#978282",
                 "line-dasharray": [
                     6,
                     3
@@ -4377,7 +5382,7 @@
                         ]
                     ]
                 },
-                "line-opacity": 0.3
+                "line-opacity": 0.5
             }
         },
         {
@@ -4420,9 +5425,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Light Rapid Transit Station And London Underground Station",
@@ -4464,9 +5467,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Light Rapid Transit Station And London Underground Station_1",
@@ -4484,9 +5485,7 @@
                 "icon-image": "OS/Railway_stations/Light Rapid Transit Station And London Underground Station_1",
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Light Rapid Transit Station And Railway Station",
@@ -4528,9 +5527,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/London Underground Station",
@@ -4572,9 +5569,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Railway Station",
@@ -4616,9 +5611,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Railway Station And London Underground Station",
@@ -4660,9 +5653,7 @@
                 },
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Railway_stations/Railway Station And London Underground Station_1",
@@ -4680,9 +5671,7 @@
                 "icon-image": "OS/Railway_stations/Railway Station And London Underground Station_1",
                 "icon-allow-overlap": true
             },
-            "paint": {
-                "icon-opacity": 0.5
-            }
+            "paint": {}
         },
         {
             "id": "OS/Airports",
@@ -4732,8 +5721,7 @@
                 "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73",
-                "icon-opacity": 0.5
+                "icon-color": "#242424"
             }
         },
         {
@@ -4765,11 +5753,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#857660"
             }
         },
         {
@@ -4797,11 +5784,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#7D7D7D"
             }
         },
         {
@@ -4829,11 +5815,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#89A489"
+                "icon-color": "#296314"
             }
         },
         {
@@ -4861,11 +5846,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6C8499"
+                "icon-color": "#318FAE"
             }
         },
         {
@@ -4893,11 +5877,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -4925,11 +5908,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -4957,11 +5939,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#7D7D7D"
             }
         },
         {
@@ -4989,11 +5970,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#89A489"
+                "icon-color": "#296314"
             }
         },
         {
@@ -5021,11 +6001,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -5053,11 +6032,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#7D7D7D"
             }
         },
         {
@@ -5085,11 +6063,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "rgba(240,240,240,0)"
             }
         },
         {
@@ -5117,11 +6094,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6C8499"
+                "icon-color": "#318FAE"
             }
         },
         {
@@ -5149,11 +6125,10 @@
                         ]
                     ]
                 },
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -5181,15 +6156,14 @@
                         ]
                     ]
                 },
-                "icon-rotate": [
-                    "get",
-                    "angle"
-                ],
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-rotate": {
+                    "property": "angle",
+                    "default": -90
+                },
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6C8499"
+                "icon-color": "#318FAE"
             }
         },
         {
@@ -5217,15 +6191,14 @@
                         ]
                     ]
                 },
-                "icon-rotate": [
-                    "get",
-                    "angle"
-                ],
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-rotate": {
+                    "property": "angle",
+                    "default": -90
+                },
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -5253,15 +6226,14 @@
                         ]
                     ]
                 },
-                "icon-rotate": [
-                    "get",
-                    "angle"
-                ],
-                "icon-allow-overlap": true,
-                "icon-rotation-alignment": "map"
+                "icon-rotate": {
+                    "property": "angle",
+                    "default": -90
+                },
+                "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "#6A6F73"
+                "icon-color": "#655314"
             }
         },
         {
@@ -5275,7 +6247,7 @@
                 "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "rgba(85,89,92,0)"
+                "icon-color": "rgba(255,0,0,0)"
             }
         },
         {
@@ -5289,7 +6261,7 @@
                 "icon-allow-overlap": true
             },
             "paint": {
-                "icon-color": "rgba(85,89,92,0)"
+                "icon-color": "rgba(255,0,0,0)"
             }
         },
         {
@@ -5313,18 +6285,17 @@
                     0.107527,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle79"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle79",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name79}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5347,11 +6318,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name64}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -5371,18 +6341,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle74"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle74",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name74}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5403,18 +6372,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle97"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle97",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name97}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5434,18 +6402,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle87"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle87",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name87}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5465,18 +6432,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "center",
-                "text-rotate": [
-                    "get",
-                    "_label_angle72"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle72",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name72}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5496,18 +6462,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle73"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle73",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name73}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5530,11 +6495,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name61}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -5555,18 +6519,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle99"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle99",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name99}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5587,18 +6550,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle96"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle96",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name96}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5619,18 +6581,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "center",
-                "text-rotate": [
-                    "get",
-                    "_label_angle95"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle95",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name95}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5650,18 +6611,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle89"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle89",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name89}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5681,18 +6641,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle86"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle86",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name86}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5712,18 +6671,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "center",
-                "text-rotate": [
-                    "get",
-                    "_label_angle85"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle85",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name85}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5743,18 +6701,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle76"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle76",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name76}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5777,11 +6734,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name66}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -5806,18 +6762,17 @@
                     0.0952381,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle53"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle53",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name53}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -5838,18 +6793,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle54"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle54",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name54}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -5870,18 +6824,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle100"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle100",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name100}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5901,18 +6854,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle90"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle90",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name90}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -5932,18 +6884,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle77"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle77",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name77}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -5966,11 +6917,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name67}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -5991,18 +6941,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle55"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle55",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name55}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6022,18 +6971,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle78"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle78",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name78}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -6056,11 +7004,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name68}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -6081,18 +7028,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle56"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle56",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name56}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6113,18 +7059,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle101"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle101",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name101}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6144,18 +7089,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle91"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle91",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name91}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6179,18 +7123,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle69"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle69",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name69}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -6211,18 +7154,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle57"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle57",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name57}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6247,18 +7189,17 @@
                     0.117647,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle92"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle92",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name92}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6282,18 +7223,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle82"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle82",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name82}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6316,11 +7256,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name60}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -6341,18 +7280,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle58"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle58",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name58}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6372,18 +7310,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle75"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle75",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name75}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -6404,18 +7341,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle98"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle98",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name98}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6435,18 +7371,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle88"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle88",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name88}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6467,18 +7402,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle59"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle59",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name59}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6501,11 +7435,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name65}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -6526,22 +7459,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle52"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle52",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name52}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6566,18 +7494,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle50"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle50",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name50}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6601,18 +7528,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle40"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle40",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name40}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6636,18 +7562,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle43"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle43",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name43}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6667,18 +7592,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle44"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle44",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name44}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6698,18 +7622,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle45"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle45",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name45}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6729,18 +7652,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle46"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle46",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name46}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6760,18 +7682,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle47"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle47",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name47}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6791,18 +7712,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle48"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle48",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name48}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6822,18 +7742,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle49"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle49",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name49}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6854,18 +7773,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle51"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle51",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name51}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6885,22 +7803,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle42"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle42",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name42}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -6920,18 +7833,17 @@
                 ],
                 "text-size": 12.4,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle80"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle80",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name80}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -6952,22 +7864,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle94"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle94",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name94}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -6987,22 +7894,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle84"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle84",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name84}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -7023,18 +7925,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle93"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle93",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name93}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -7054,18 +7955,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle83"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle83",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name83}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#5C5C5C"
             }
         },
         {
@@ -7085,22 +7985,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle71"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle71",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name71}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -7123,11 +8018,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name63}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -7150,11 +8044,10 @@
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name62}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#857660"
             }
         },
         {
@@ -7174,18 +8067,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle41"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle41",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name41}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6C8499"
+                "text-color": "#318FAE"
             }
         },
         {
@@ -7205,18 +8097,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle70"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle70",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name70}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -7236,22 +8127,17 @@
                 ],
                 "text-size": 12.4,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle81"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle81",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name81}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -7271,22 +8157,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle32"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle32",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name32}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7306,18 +8187,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle39"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle39",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name39}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7337,18 +8217,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle38"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle38",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name38}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7368,18 +8247,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle37"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle37",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name37}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7399,18 +8277,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle36"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle36",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name36}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7430,18 +8307,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle35"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle35",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name35}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7461,18 +8337,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle34"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle34",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name34}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7496,18 +8371,17 @@
                     0.0930233,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle33"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle33",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name33}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7531,18 +8405,17 @@
                     0.0930233,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle30"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle30",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name30}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7562,18 +8435,17 @@
                 ],
                 "text-size": 14,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle31"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle31",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name31}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#7D7D7D"
             }
         },
         {
@@ -7597,18 +8469,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle20"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle20",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name20}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7628,18 +8499,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle21"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle21",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name21}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7659,22 +8529,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle22"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle22",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name22}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7698,18 +8563,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle23"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle23",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name23}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7729,18 +8593,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle24"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle24",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name24}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7760,18 +8623,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle25"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle25",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name25}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7791,18 +8653,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle26"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle26",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name26}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7822,18 +8683,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle27"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle27",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name27}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7853,18 +8713,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle28"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle28",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name28}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7884,18 +8743,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle29"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle29",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name29}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#296314"
             }
         },
         {
@@ -7916,22 +8774,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle12"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle12",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name12}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -7951,22 +8804,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "right",
-                "text-rotate": [
-                    "+",
-                    180,
-                    [
-                        "get",
-                        "_label_angle2"
-                    ]
-                ],
+                "text-rotate": {
+                    "property": "_label_angle2",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name2}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -7987,18 +8835,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle11"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle11",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name11}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8018,18 +8865,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle1"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle1",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name1}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8054,18 +8900,17 @@
                     0.117647,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle10"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle10",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name10}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8089,18 +8934,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8121,18 +8965,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle17"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle17",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name17}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8152,18 +8995,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top",
-                "text-rotate": [
-                    "get",
-                    "_label_angle7"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle7",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name7}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8184,18 +9026,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle19"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle19",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name19}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8215,18 +9056,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle9"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle9",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name9}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8247,18 +9087,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle18"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle18",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name18}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8278,18 +9117,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-right",
-                "text-rotate": [
-                    "get",
-                    "_label_angle8"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle8",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name8}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8310,18 +9148,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle16"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle16",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name16}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8341,18 +9178,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "top-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle6"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle6",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name6}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8373,18 +9209,17 @@
                 ],
                 "text-size": 10.5,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle15"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle15",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name15}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8404,18 +9239,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom-left",
-                "text-rotate": [
-                    "get",
-                    "_label_angle5"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle5",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name5}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8436,18 +9270,17 @@
                 ],
                 "text-size": 11,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle14"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle14",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name14}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8467,18 +9300,17 @@
                 ],
                 "text-size": 13,
                 "text-anchor": "bottom",
-                "text-rotate": [
-                    "get",
-                    "_label_angle4"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle4",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name4}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8503,18 +9335,17 @@
                     0.117647,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle13"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle13",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name13}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8538,18 +9369,17 @@
                     0.103093,
                     0
                 ],
-                "text-rotate": [
-                    "get",
-                    "_label_angle3"
-                ],
+                "text-rotate": {
+                    "property": "_label_angle3",
+                    "default": 0
+                },
                 "text-letter-spacing": 0.05,
                 "text-field": "{_name3}",
                 "text-allow-overlap": true,
-                "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73"
+                "text-color": "#655314"
             }
         },
         {
@@ -8575,7 +9405,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#737373",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -8603,7 +9433,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#737373",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -8631,7 +9461,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#808080",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -8659,7 +9489,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#666666",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -8685,8 +9515,8 @@
             },
             "paint": {
                 "icon-color": "rgba(0,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#438519",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8711,8 +9541,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#A79720",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8736,8 +9566,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#AF7631",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8761,8 +9591,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#AF7631",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8786,8 +9616,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#AF9031",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8811,8 +9641,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#AF9031",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8836,8 +9666,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6C8499",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#318FAE",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8861,8 +9691,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6C8499",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#318FAE",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8886,8 +9716,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#599C30",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8911,8 +9741,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#599C30",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -8940,7 +9770,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#737373",
                 "text-halo-color": "#FFFFFF",
                 "text-halo-width": 2
             }
@@ -8969,7 +9799,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#737373",
                 "text-halo-color": "#FFFFFF",
                 "text-halo-width": 2
             }
@@ -8998,7 +9828,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#737373",
                 "text-halo-color": "#FFFFFF",
                 "text-halo-width": 1.6
             }
@@ -9026,7 +9856,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#808080",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -9054,7 +9884,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#666666",
                 "text-halo-color": "rgba(255,255,255,0.99)",
                 "text-halo-width": 1.5
             }
@@ -9134,7 +9964,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#000000",
                 "text-halo-color": "#FAFAF3",
                 "text-halo-width": 1.5
             }
@@ -9214,7 +10044,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#000000",
                 "text-halo-color": "#FAFAF3",
                 "text-halo-width": 1.5
             }
@@ -9239,8 +10069,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#725F17",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9264,8 +10094,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#AF9031",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 0.75
             }
         },
@@ -9289,8 +10119,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9314,8 +10144,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9339,8 +10169,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9364,8 +10194,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#725F17",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9389,8 +10219,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#725F17",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9414,8 +10244,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#725F17",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9443,8 +10273,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#77C776",
                 "text-halo-width": 1.5
             }
         },
@@ -9472,8 +10302,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#77C776",
                 "text-halo-width": 1.5
             }
         },
@@ -9501,8 +10331,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#77C776",
                 "text-halo-width": 1.5
             }
         },
@@ -9530,8 +10360,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#77C776",
                 "text-halo-width": 1.5
             }
         },
@@ -9555,8 +10385,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.8
             }
         },
@@ -9580,8 +10410,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.8
             }
         },
@@ -9605,8 +10435,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#655314",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.1
             }
         },
@@ -9634,8 +10464,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#08B7E7",
                 "text-halo-width": 1.5
             }
         },
@@ -9663,8 +10493,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#08B7E7",
                 "text-halo-width": 1.5
             }
         },
@@ -9692,8 +10522,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#FFFFFF",
+                "text-color": "#FCFDFF",
+                "text-halo-color": "#08B7E7",
                 "text-halo-width": 1.5
             }
         },
@@ -9723,7 +10553,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
+                "text-color": "#303030",
                 "text-halo-color": "#F4F4EE",
                 "text-halo-width": 1.5
             }
@@ -9754,8 +10584,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#303030",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9779,8 +10609,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#599C30",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 2
             }
         },
@@ -9805,7 +10635,7 @@
             "paint": {
                 "icon-color": "rgba(168,0,0,0)",
                 "text-color": "#FFFFFF",
-                "text-halo-color": "#9C9C9C",
+                "text-halo-color": "#1484A3",
                 "text-halo-width": 3
             }
         },
@@ -9829,8 +10659,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#372D0B",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 2.2
             }
         },
@@ -9854,8 +10684,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#372D0B",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.7
             }
         },
@@ -9879,8 +10709,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#372D0B",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9903,8 +10733,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#6A6F73",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#796315",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9929,8 +10759,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#599C30",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9953,8 +10783,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#89A489",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#599C30",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -9978,8 +10808,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 3
             }
         },
@@ -10003,8 +10833,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 2.2
             }
         },
@@ -10029,8 +10859,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -10053,8 +10883,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -10078,8 +10908,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 3
             }
         },
@@ -10103,8 +10933,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 3
             }
         },
@@ -10128,8 +10958,8 @@
             },
             "paint": {
                 "icon-color": "rgba(255,0,0,0)",
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -10155,8 +10985,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "#55595C",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "#342A07",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -10184,8 +11014,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "rgba(85,89,92,0.5)",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "rgba(54,44,7,0.5)",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         },
@@ -10214,7 +11044,7 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "rgba(85,89,92,0.75)"
+                "text-color": "rgba(52,42,7,0.75)"
             }
         },
         {
@@ -10239,8 +11069,8 @@
                 "text-optional": true
             },
             "paint": {
-                "text-color": "rgba(85,89,92,0.5)",
-                "text-halo-color": "#F1EFEC",
+                "text-color": "rgba(54,44,7,0.5)",
+                "text-halo-color": "#F5F5F0",
                 "text-halo-width": 1.5
             }
         }
