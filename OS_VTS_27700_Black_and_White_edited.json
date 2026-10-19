@@ -1842,10 +1842,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    6,
-                    6
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2076,10 +2072,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2184,10 +2176,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    6,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2222,10 +2210,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    2,
-                    2
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2434,10 +2418,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    2.5,
-                    2.5
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2472,10 +2452,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2630,10 +2606,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    2,
-                    2
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2668,10 +2640,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2775,10 +2743,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    2,
-                    2
-                ],
                 "line-width": 0.6
             }
         },
@@ -2798,10 +2762,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    6,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2836,10 +2796,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2874,10 +2830,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -2912,10 +2864,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    4,
-                    4
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -3174,10 +3122,6 @@
             "layout": {},
             "paint": {
                 "line-color": "rgb(146,146,146)",
-                "line-dasharray": [
-                    4,
-                    2.5
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -5544,10 +5488,6 @@
             "layout": {},
             "paint": {
                 "line-color": "rgb(146,146,146)",
-                "line-dasharray": [
-                    4,
-                    2
-                ],
                 "line-width": {
                     "stops": [
                         [
@@ -5594,10 +5534,6 @@
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
-                "line-dasharray": [
-                    3,
-                    2
-                ],
                 "line-width": {
                     "stops": [
                         [
