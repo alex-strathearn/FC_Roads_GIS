@@ -51,7 +51,7 @@
             "source": "esri",
             "source-layer": "European_land",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(255,255,255)",
@@ -75,7 +75,7 @@
             "source": "esri",
             "source-layer": "GB_land",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(255,255,255)"
@@ -221,7 +221,7 @@
             "source": "esri",
             "source-layer": "Functional_sites",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -239,7 +239,7 @@
             "source": "esri",
             "source-layer": "Functional_sites",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -257,7 +257,7 @@
             "source": "esri",
             "source-layer": "Functional_sites",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -275,7 +275,7 @@
             "source": "esri",
             "source-layer": "Functional_sites",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -293,7 +293,7 @@
             "source": "esri",
             "source-layer": "Functional_sites",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -311,7 +311,7 @@
             "source": "esri",
             "source-layer": "Greenspace:2",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(235,235,235)"
@@ -323,7 +323,7 @@
             "source": "esri",
             "source-layer": "Greenspace:2",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {
                 "line-cap": "round",
                 "line-join": "round"
@@ -369,7 +369,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -385,7 +385,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -401,7 +401,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -417,7 +417,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -433,7 +433,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -449,7 +449,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -465,7 +465,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -481,7 +481,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -497,7 +497,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -513,7 +513,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -529,7 +529,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -545,7 +545,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -561,7 +561,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -577,7 +577,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -593,7 +593,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -609,7 +609,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -625,7 +625,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -641,7 +641,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -657,7 +657,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -673,7 +673,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -689,7 +689,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -705,7 +705,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -721,7 +721,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -737,7 +737,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -753,7 +753,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -769,7 +769,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -785,7 +785,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -801,7 +801,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -817,7 +817,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -833,7 +833,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -849,7 +849,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -865,7 +865,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -881,7 +881,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -897,7 +897,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -913,7 +913,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -929,7 +929,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -945,7 +945,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -961,7 +961,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -977,7 +977,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -993,7 +993,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1009,7 +1009,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1025,7 +1025,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1041,7 +1041,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1057,7 +1057,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1073,7 +1073,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1089,7 +1089,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1105,7 +1105,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1121,7 +1121,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1137,7 +1137,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1153,7 +1153,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1169,7 +1169,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1185,7 +1185,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1201,7 +1201,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1217,7 +1217,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1233,7 +1233,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 11,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1249,7 +1249,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1265,7 +1265,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1281,7 +1281,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1297,7 +1297,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1313,7 +1313,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1329,7 +1329,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1345,7 +1345,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1361,7 +1361,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1377,7 +1377,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1393,7 +1393,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1409,7 +1409,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1425,7 +1425,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1441,7 +1441,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1458,7 +1458,7 @@
             "source": "esri",
             "source-layer": "Woodland:3",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1555,7 +1555,7 @@
             "source": "esri",
             "source-layer": "District_buildings",
             "minzoom": 9,
-            "maxzoom": 10,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(230,230,230)"
@@ -1569,7 +1569,7 @@
             "minzoom": 11,
             "maxzoom": 12,
             "layout": {
-                "visibility": "visible"
+                "visibility": "none"
             },
             "paint": {
                 "fill-color": {
@@ -1595,7 +1595,7 @@
             "minzoom": 10,
             "maxzoom": 11,
             "layout": {
-                "visibility": "visible"
+                "visibility": "none"
             },
             "paint": {
                 "fill-color": "rgb(245,245,245)",
@@ -1608,7 +1608,7 @@
             "source": "esri",
             "source-layer": "Local_buildings",
             "minzoom": 9,
-            "maxzoom": 10,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(230,230,230)"
@@ -1620,7 +1620,7 @@
             "source": "esri",
             "source-layer": "Contours",
             "minzoom": 6,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1684,7 +1684,7 @@
             "source": "esri",
             "source-layer": "Contours",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1778,7 +1778,7 @@
             "source": "esri",
             "source-layer": "Surfacewater",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1807,7 +1807,7 @@
             "source": "esri",
             "source-layer": "Foreshore",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {},
             "paint": {
                 "fill-color": "rgb(252,252,252)"
@@ -1820,7 +1820,9 @@
             "source-layer": "Ornament",
             "minzoom": 10,
             "maxzoom": 12,
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(150,150,150)",
                 "fill-opacity": 0.4
@@ -1831,7 +1833,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -1872,7 +1874,9 @@
                 "_symbol",
                 6
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1889,7 +1893,9 @@
                 "_symbol",
                 5
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1906,7 +1912,9 @@
                 "_symbol",
                 4
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1923,7 +1931,9 @@
                 "_symbol",
                 3
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1940,7 +1950,9 @@
                 "_symbol",
                 2
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1957,7 +1969,9 @@
                 "_symbol",
                 1
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1974,7 +1988,9 @@
                 "_symbol",
                 0
             ],
-            "layout": {},
+            "layout": {
+                "visibility": "none"
+            },
             "paint": {
                 "fill-color": "rgb(255,255,255)"
             }
@@ -1984,7 +2000,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2022,7 +2038,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2061,7 +2077,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2095,7 +2111,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2130,7 +2146,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2165,7 +2181,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2199,7 +2215,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2233,7 +2249,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2268,7 +2284,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2302,7 +2318,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2337,7 +2353,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2372,7 +2388,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2407,7 +2423,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2441,7 +2457,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2475,7 +2491,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2510,7 +2526,7 @@
             "type": "fill",
             "source": "esri",
             "source-layer": "TopographicArea_1",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2526,7 +2542,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2561,7 +2577,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2595,7 +2611,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2629,7 +2645,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2663,7 +2679,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2697,7 +2713,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2732,7 +2748,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2751,7 +2767,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2785,7 +2801,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2819,7 +2835,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2853,7 +2869,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2887,7 +2903,7 @@
             "type": "line",
             "source": "esri",
             "source-layer": "TopographicLine",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2944,7 +2960,7 @@
             "source": "esri",
             "source-layer": "Waterlines",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -2965,7 +2981,7 @@
             "source": "esri",
             "source-layer": "Waterlines",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3006,7 +3022,7 @@
             "source": "esri",
             "source-layer": "Waterlines",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3113,7 +3129,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3171,7 +3187,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3255,7 +3271,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3335,7 +3351,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3394,7 +3410,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 6,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3449,7 +3465,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3500,7 +3516,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3548,7 +3564,8 @@
             ],
             "layout": {
                 "line-cap": "round",
-                "line-join": "round"
+                "line-join": "round",
+                "visibility": "none"
             },
             "paint": {
                 "line-color": "rgb(0,0,0)",
@@ -3580,7 +3597,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3624,7 +3641,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3683,7 +3700,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 6,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3738,7 +3755,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3789,7 +3806,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3837,7 +3854,8 @@
             ],
             "layout": {
                 "line-cap": "round",
-                "line-join": "round"
+                "line-join": "round",
+                "visibility": "none"
             },
             "paint": {
                 "line-color": "rgb(254,254,254)",
@@ -3869,7 +3887,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3913,7 +3931,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -3977,7 +3995,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4037,7 +4055,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4121,7 +4139,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4201,7 +4219,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4281,7 +4299,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4336,7 +4354,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4387,7 +4405,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4427,7 +4445,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4467,7 +4485,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4511,7 +4529,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4570,7 +4588,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4625,7 +4643,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4676,7 +4694,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4716,7 +4734,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4756,7 +4774,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 8,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4800,7 +4818,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4863,7 +4881,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -4923,7 +4941,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5007,7 +5025,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5102,7 +5120,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 6,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5153,7 +5171,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 3,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5216,7 +5234,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5276,7 +5294,7 @@
             "source": "esri",
             "source-layer": "Roads",
             "minzoom": 6,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5327,7 +5345,7 @@
             "source": "esri",
             "source-layer": "Railways",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5383,7 +5401,7 @@
             "source": "esri",
             "source-layer": "Railways",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5427,7 +5445,7 @@
             "source": "esri",
             "source-layer": "Railways",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5479,7 +5497,7 @@
             "source": "esri",
             "source-layer": "Railways",
             "minzoom": 5,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5528,7 +5546,7 @@
             "source": "esri",
             "source-layer": "ETL",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {
                 "line-join": "round"
             },
@@ -5563,7 +5581,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5605,7 +5623,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5665,7 +5683,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5707,7 +5725,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5749,7 +5767,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 7,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5791,7 +5809,7 @@
             "source": "esri",
             "source-layer": "Railway_stations",
             "minzoom": 9,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5851,7 +5869,7 @@
             "source": "esri",
             "source-layer": "Airports",
             "minzoom": 4,
-            "maxzoom": 12,
+            "maxzoom": 9.73,
             "layout": {
                 "icon-image": "OS/Airports",
                 "icon-size": {
@@ -5901,7 +5919,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5937,7 +5955,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -5969,7 +5987,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6001,7 +6019,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6033,7 +6051,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6065,7 +6083,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6097,7 +6115,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6129,7 +6147,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6161,7 +6179,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6193,7 +6211,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6225,7 +6243,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6257,7 +6275,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6289,7 +6307,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "TopographicPoint",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6321,7 +6339,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicSymbol",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6357,7 +6375,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicSymbol",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6393,7 +6411,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicSymbol",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_symbol",
@@ -6462,7 +6480,7 @@
                 "_label_class79",
                 79
             ],
-            "minzoom": 13,
+            "minzoom": 9.73,
             "layout": {
                 "text-font": [
                     "Source Sans Pro Light"
@@ -6491,7 +6509,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class64",
@@ -6519,7 +6537,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class74",
@@ -6571,7 +6589,8 @@
                 "text-field": "{_name97}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -6582,7 +6601,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class87",
@@ -6613,7 +6632,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class72",
@@ -6644,7 +6663,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class73",
@@ -6675,7 +6694,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class61",
@@ -6724,7 +6743,8 @@
                 "text-field": "{_name99}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -6756,7 +6776,8 @@
                 "text-field": "{_name96}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -6788,7 +6809,8 @@
                 "text-field": "{_name95}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -6799,7 +6821,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class89",
@@ -6830,7 +6852,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class86",
@@ -6861,7 +6883,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class85",
@@ -6892,7 +6914,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class76",
@@ -6923,7 +6945,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class66",
@@ -6976,7 +6998,8 @@
                 "text-field": "{_name53}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7008,7 +7031,8 @@
                 "text-field": "{_name54}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7040,7 +7064,8 @@
                 "text-field": "{_name100}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7051,7 +7076,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class90",
@@ -7082,7 +7107,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class77",
@@ -7113,7 +7138,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class67",
@@ -7162,7 +7187,8 @@
                 "text-field": "{_name55}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7173,7 +7199,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class78",
@@ -7204,7 +7230,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class68",
@@ -7253,7 +7279,8 @@
                 "text-field": "{_name56}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7285,7 +7312,8 @@
                 "text-field": "{_name101}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7296,7 +7324,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class91",
@@ -7327,7 +7355,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class69",
@@ -7383,7 +7411,8 @@
                 "text-field": "{_name57}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7419,7 +7448,8 @@
                 "text-field": "{_name92}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)",
@@ -7432,7 +7462,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class82",
@@ -7467,7 +7497,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class60",
@@ -7516,7 +7546,8 @@
                 "text-field": "{_name58}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7527,7 +7558,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class75",
@@ -7579,7 +7610,8 @@
                 "text-field": "{_name98}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7590,7 +7622,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class88",
@@ -7642,7 +7674,8 @@
                 "text-field": "{_name59}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7653,7 +7686,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class65",
@@ -7706,7 +7739,8 @@
                 "text-field": "{_name52}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7742,7 +7776,8 @@
                 "text-field": "{_name50}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -7753,7 +7788,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class40",
@@ -7788,7 +7823,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class43",
@@ -7823,7 +7858,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class44",
@@ -7854,7 +7889,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class45",
@@ -7885,7 +7920,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class46",
@@ -7916,7 +7951,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class47",
@@ -7947,7 +7982,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class48",
@@ -7978,7 +8013,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class49",
@@ -8030,7 +8065,8 @@
                 "text-field": "{_name51}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -8041,7 +8077,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class42",
@@ -8081,7 +8117,7 @@
                 "_label_class80",
                 80
             ],
-            "minzoom": 13,
+            "minzoom": 9.73,
             "layout": {
                 "text-font": [
                     "Source Sans Pro Light"
@@ -8131,7 +8167,8 @@
                 "text-field": "{_name94}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)",
@@ -8144,7 +8181,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class84",
@@ -8202,7 +8239,8 @@
                 "text-field": "{_name93}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)",
@@ -8215,7 +8253,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class83",
@@ -8248,7 +8286,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class71",
@@ -8283,7 +8321,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class63",
@@ -8311,7 +8349,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class62",
@@ -8339,7 +8377,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class41",
@@ -8370,7 +8408,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class70",
@@ -8406,7 +8444,7 @@
                 "_label_class81",
                 81
             ],
-            "minzoom": 13,
+            "minzoom": 9.73,
             "layout": {
                 "text-font": [
                     "Source Sans Pro Light"
@@ -8431,7 +8469,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class32",
@@ -8466,7 +8504,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class39",
@@ -8497,7 +8535,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class38",
@@ -8528,7 +8566,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class37",
@@ -8559,7 +8597,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class36",
@@ -8590,7 +8628,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class35",
@@ -8621,7 +8659,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class34",
@@ -8652,7 +8690,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class33",
@@ -8687,7 +8725,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class30",
@@ -8722,7 +8760,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class31",
@@ -8753,7 +8791,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class20",
@@ -8788,7 +8826,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class21",
@@ -8819,7 +8857,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class22",
@@ -8854,7 +8892,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class23",
@@ -8889,7 +8927,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class24",
@@ -8920,7 +8958,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class25",
@@ -8951,7 +8989,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class26",
@@ -8982,7 +9020,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class27",
@@ -9013,7 +9051,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class28",
@@ -9044,7 +9082,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 12,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class29",
@@ -9100,7 +9138,8 @@
                 "text-field": "{_name12}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9111,7 +9150,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class2",
@@ -9167,7 +9206,8 @@
                 "text-field": "{_name11}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9178,7 +9218,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class1",
@@ -9234,7 +9274,8 @@
                 "text-field": "{_name10}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)",
@@ -9247,7 +9288,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class",
@@ -9305,7 +9346,8 @@
                 "text-field": "{_name17}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9316,7 +9358,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class7",
@@ -9368,7 +9410,8 @@
                 "text-field": "{_name19}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9379,7 +9422,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class9",
@@ -9431,7 +9474,8 @@
                 "text-field": "{_name18}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9442,7 +9486,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class8",
@@ -9494,7 +9538,8 @@
                 "text-field": "{_name16}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9505,7 +9550,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class6",
@@ -9557,7 +9602,8 @@
                 "text-field": "{_name15}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9568,7 +9614,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class5",
@@ -9620,7 +9666,8 @@
                 "text-field": "{_name14}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)",
@@ -9633,7 +9680,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class4",
@@ -9689,7 +9736,8 @@
                 "text-field": "{_name13}",
                 "text-allow-overlap": true,
                 "text-optional": true,
-                "text-rotation-alignment": "map"
+                "text-rotation-alignment": "map",
+                "visibility": "none"
             },
             "paint": {
                 "text-color": "rgb(0,0,0)"
@@ -9700,7 +9748,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "CartographicText",
-            "minzoom": 13,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class3",
@@ -9870,7 +9918,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "Sites",
-            "minzoom": 10,
+            "minzoom": 9.73,
             "layout": {
                 "icon-image": "OS/Names/Local/Sites",
                 "icon-allow-overlap": true,
@@ -10091,7 +10139,7 @@
             "type": "symbol",
             "source": "esri",
             "source-layer": "Roads/label",
-            "minzoom": 10,
+            "minzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class",
@@ -10120,7 +10168,7 @@
             "source": "esri",
             "source-layer": "Roads/label",
             "minzoom": 9,
-            "maxzoom": 10,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class",
@@ -10205,7 +10253,7 @@
             "source": "esri",
             "source-layer": "Roads/label",
             "minzoom": 8,
-            "maxzoom": 10,
+            "maxzoom": 9.73,
             "filter": [
                 "==",
                 "_label_class",
